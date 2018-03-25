@@ -52,16 +52,16 @@ LOG denotes when a line is executed
 
 ***
 ### Operation Runtimes
-*IsEmpty()       - Runtime O(1)
-*Front()         - Runtime O(1)
-*Back()          - Runtime O(1)
-*AppendToFront() - Runtime O(1)
-*AppendToBack()  - Runtime O(1)
-*RemoveFront()   - Runtime O(1) 
-*RemoveBack()    - Runtime O(1)
-*RemoveByValue() - Runtime O(n)        
-*Erase()         - Runtime O(n)
-*Copy()          - Runtime O(n)
+* IsEmpty()       - Runtime O(1)
+* Front()         - Runtime O(1)
+* Back()          - Runtime O(1)
+* AppendToFront() - Runtime O(1)
+* AppendToBack()  - Runtime O(1)
+* RemoveFront()   - Runtime O(1) 
+* RemoveBack()    - Runtime O(1)
+* RemoveByValue() - Runtime O(n)        
+* Erase()         - Runtime O(n)
+* Copy()          - Runtime O(n)
 ***
 ### Closing Notes
 Program was compiled with g++ and tested on Fedora Linux 24. This program has not been tested on other 
